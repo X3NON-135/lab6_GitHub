@@ -3,4 +3,8 @@
 Good job!
 Awesome job!
 
+<<<<<<< HEAD
 Master`s bad idea.
+=======
+**Trouble changes**
+>>>>>>> bad-update
